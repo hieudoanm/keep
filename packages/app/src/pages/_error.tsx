@@ -1,4 +1,4 @@
-import { ErrorTemplate } from '@mditor/templates/ErrorTemplate';
+import { ErrorTemplate } from '@keep/templates/ErrorTemplate';
 import { NextPage } from 'next';
 
 const messages = [

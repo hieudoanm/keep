@@ -1,5 +1,5 @@
 import { GetStaticProps, NextPage } from 'next';
-import { VersionTemplate } from '@mditor/templates/VersionTemplate';
+import { VersionTemplate } from '@keep/templates/VersionTemplate';
 
 type Props = {
 	version: string;

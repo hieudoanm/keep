@@ -1,6 +1,6 @@
-import { MarkdownPreviewer } from '@mditor/components/MarkdownPreviewer';
-import { Navbar } from '@mditor/components/Navbar/Navbar';
-import { INITIAL_MARKDOWN } from '@mditor/constants/app';
+import { MarkdownPreviewer } from '@keep/components/MarkdownPreviewer';
+import { Navbar } from '@keep/components/Navbar/Navbar';
+import { INITIAL_MARKDOWN } from '@keep/constants/app';
 import 'github-markdown-css/github-markdown.css';
 import htmlToPdfmake from 'html-to-pdfmake';
 import { marked } from 'marked';

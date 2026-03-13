@@ -1,7 +1,7 @@
 import {
 	LandingContent,
 	LandingTemplate,
-} from '@mditor/templates/LandingTemplate';
+} from '@keep/templates/LandingTemplate';
 import { NextPage } from 'next';
 
 const content: LandingContent = {

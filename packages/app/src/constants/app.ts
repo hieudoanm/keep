@@ -1,4 +1,4 @@
-export const APP_NAME: string = 'MDitor';
+export const APP_NAME: string = 'Keep';
 
 export const INITIAL_MARKDOWN: string = `# Markdown Cheat Sheet
 

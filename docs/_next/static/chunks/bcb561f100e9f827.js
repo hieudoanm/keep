@@ -123,4 +123,4 @@ H~2~O
 ### Superscript
 
 X^2^
-`;e.s(["APP_NAME",0,"MDitor","INITIAL_MARKDOWN",0,t])},8862,e=>{e.v(t=>Promise.all(["static/chunks/6048511651a7235f.js"].map(t=>e.l(t))).then(()=>t(1004)))},9541,e=>{e.v(t=>Promise.all(["static/chunks/d4b3864c15281c98.js"].map(t=>e.l(t))).then(()=>t(2692)))}]);
+`;e.s(["APP_NAME",0,"Keep","INITIAL_MARKDOWN",0,t])},8862,e=>{e.v(t=>Promise.all(["static/chunks/6048511651a7235f.js"].map(t=>e.l(t))).then(()=>t(1004)))},9541,e=>{e.v(t=>Promise.all(["static/chunks/d4b3864c15281c98.js"].map(t=>e.l(t))).then(()=>t(2692)))}]);

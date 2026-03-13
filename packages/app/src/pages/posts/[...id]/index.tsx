@@ -1,6 +1,6 @@
-import { logger } from '@mditor/utils/log';
-import { getSortedPostsData } from '@mditor/utils/posts';
-import { isSubset } from '@mditor/utils/set';
+import { logger } from '@keep/utils/log';
+import { getSortedPostsData } from '@keep/utils/posts';
+import { isSubset } from '@keep/utils/set';
 import matter from 'gray-matter';
 import htmlToPdfmake from 'html-to-pdfmake';
 import { GetStaticProps, NextPage } from 'next';
@@ -26,7 +26,7 @@ pdfMake.fonts = {
 
 const postsDirectory = path.join(process.cwd(), 'src/posts');
 
-// Helper to recursively get all .mditor file paths
+// Helper to recursively get all .keep file paths
 function getMarkdownFiles(dir: string): string[] {
 	const entries = fs.readdirSync(dir, { withFileTypes: true });
 	return entries.flatMap((entry) => {

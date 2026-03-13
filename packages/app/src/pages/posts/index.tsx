@@ -1,4 +1,4 @@
-import { getSortedPostsData } from '@mditor/utils/posts';
+import { getSortedPostsData } from '@keep/utils/posts';
 import { NextPage } from 'next';
 import Link from 'next/link';
 import { useState } from 'react';

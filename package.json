@@ -1,17 +1,17 @@
 {
-  "name": "@mditor/workspaces",
+  "name": "@keep/workspaces",
   "version": "0.0.1",
-  "description": "mditor",
+  "description": "Keep",
   "keywords": [
-    "mditor"
+    "keep"
   ],
-  "homepage": "https://hieudoanm.github.io/mditor",
+  "homepage": "https://hieudoanm.github.io/keep",
   "bugs": {
-    "url": "https://github.com/hieudoanm/mditor/issues"
+    "url": "https://github.com/hieudoanm/keep/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/hieudoanm/mditor.git"
+    "url": "git+ssh://git@github.com/hieudoanm/keep.git"
   },
   "license": "GPL-3.0",
   "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",

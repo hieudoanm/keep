@@ -1,15 +1,18 @@
 self.__BUILD_MANIFEST = {
   "/": [
-    "static/chunks/29396df16304d37e.js"
+    "static/chunks/fceb4734c2f54392.js"
   ],
   "/404": [
-    "static/chunks/2113947d4b5674b8.js"
+    "static/chunks/d5e2db5320b9def5.js"
   ],
   "/500": [
-    "static/chunks/78202d655ac75427.js"
+    "static/chunks/37e70185f0423b25.js"
   ],
   "/_error": [
-    "static/chunks/8e614f759290ece5.js"
+    "static/chunks/080fefe038d13654.js"
+  ],
+  "/app": [
+    "static/chunks/3f57b5b682c9e9d1.js"
   ],
   "/posts": [
     "static/chunks/383fb342f89fbf27.js"
@@ -31,6 +34,7 @@ self.__BUILD_MANIFEST = {
     "/500",
     "/_app",
     "/_error",
+    "/app",
     "/posts",
     "/posts/[...id]",
     "/version"

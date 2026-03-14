@@ -66,7 +66,7 @@ const AppPage: NextPage = () => {
 
 		const converted: Content[] = htmlToPdfmake(html) as Content[];
 		const filteredContent = converted.filter(
-			(content) => (content as ContentText).text !== ' ',
+			(content) => (content as ContentText).text !== ' '
 		);
 
 		const documentDefinitions: TDocumentDefinitions = {

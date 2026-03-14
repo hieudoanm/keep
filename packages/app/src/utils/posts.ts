@@ -47,12 +47,12 @@ export function getSortedPostsData() {
 	return allPostsData.sort(
 		(
 			a: { date: string; title: string },
-			b: { date: string; title: string },
+			b: { date: string; title: string }
 		) => {
 			if (a.date === b.date) {
 				return a.title > b.title ? 1 : -1;
 			}
 			return a.date < b.date ? 1 : -1;
-		},
+		}
 	);
 }

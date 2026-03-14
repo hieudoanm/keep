@@ -152,7 +152,8 @@ date: '2025-05-01'
 
 ## Mathematics (Perfect Numbers)
 
-A perfect number is a positive integer that is equal to the sum of its positive factors, excluding the number itself. There is currently 51 numbers.
+A perfect number is a positive integer that is equal to the sum of its positive
+factors, excluding the number itself. There is currently 51 numbers.
 
 | #   | n                                                                       |
 | --- | ----------------------------------------------------------------------- |

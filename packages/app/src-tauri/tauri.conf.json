@@ -1,8 +1,8 @@
 {
 	"$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-	"productName": "md",
+	"productName": "Keep",
 	"version": "0.0.1",
-	"identifier": "io.github.hieudoam.md",
+	"identifier": "io.github.hieudoam.keep",
 	"build": {
 		"frontendDist": "../docs",
 		"devUrl": "http://localhost:3000",
@@ -12,7 +12,7 @@
 	"app": {
 		"windows": [
 			{
-				"title": "MD",
+				"title": "Keep",
 				"width": 800,
 				"height": 600,
 				"resizable": true,

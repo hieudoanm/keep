@@ -9,3 +9,13 @@ generator dbml {
 generator jsonSchema {
   provider = "prisma-json-schema-generator"
 }
+
+model Note {
+  id        String   @id @map("id")
+  title     String   @map("title")
+  content   String   @map("content")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @default(now()) @map("updated_at")
+
+  @@map("notes")
+}

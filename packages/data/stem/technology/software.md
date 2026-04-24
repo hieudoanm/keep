@@ -1,8 +1,8 @@
-# Technology
+# Software
 
 ## Table of Contents
 
-- [Technology](#technology)
+- [Software](#software)
   - [Table of Contents](#table-of-contents)
   - [AI](#ai)
   - [Browsers](#browsers)
@@ -14,17 +14,19 @@
 
 ## AI
 
-| No  | Model                                     | Company                                     |
-| --- | ----------------------------------------- | ------------------------------------------- |
-| 1   | [ChatGPT](https://chatgpt.com/)           | [OpenAI](https://openai.com/)               |
-| 2   | [Claude](https://claude.com/)             | [Anthropic](https://www.anthropic.com/)     |
-| 3   | [Copilot](https://copilot.microsoft.com/) | [Microsoft](https://www.microsoft.com/)     |
-| 4   | [DeepSeek](https://deepseek.com/)         | [DeepSeek](https://deepseek.com/)           |
-| 5   | [Gemini](https://gemini.google.com/)      | [Google](https://www.google.com/)           |
-| 6   | [Grok](https://grok.com/)                 | [xAI](https://x.ai/)                        |
-| 7   | [Llama](https://llama.meta.com/)          | [Meta](https://www.meta.com/)               |
-| 8   | [Perplexity](https://www.perplexity.ai/)  | [Perplexity AI](https://www.perplexity.ai/) |
-| 9   | [Poe](https://poe.com/)                   | [Quora](https://www.quora.com/)             |
+| No  | Type      | Model                                             | Company                                     |
+| --- | --------- | ------------------------------------------------- | ------------------------------------------- |
+| 01  | Languages | [ChatGPT](https://chatgpt.com/)                   | [OpenAI](https://openai.com/)               |
+| 02  | Languages | [Claude](https://claude.com/)                     | [Anthropic](https://www.anthropic.com/)     |
+| 03  | Languages | [Copilot](https://copilot.microsoft.com/)         | [Microsoft](https://www.microsoft.com/)     |
+| 04  | Languages | [DeepSeek](https://deepseek.com/)                 | [DeepSeek](https://deepseek.com/)           |
+| 05  | Languages | [Gemini](https://gemini.google.com/)              | [Google](https://www.google.com/)           |
+| 06  | Languages | [Grok](https://grok.com/)                         | [xAI](https://x.ai/)                        |
+| 07  | Languages | [Llama](https://llama.meta.com/)                  | [Meta](https://www.meta.com/)               |
+| 08  | Languages | [Perplexity](https://www.perplexity.ai/)          | [Perplexity AI](https://www.perplexity.ai/) |
+| 09  | Languages | [Poe](https://poe.com/)                           | [Quora](https://www.quora.com/)             |
+| 10  | Images    | [Midjourney](https://www.midjourney.com/)         | [Midjourney](https://www.midjourney.com/)   |
+| 11  | Images    | [Stable Diffusion](https://stable-diffusion.com/) | [Stability AI](https://stability.ai/)       |
 
 ## Browsers
 

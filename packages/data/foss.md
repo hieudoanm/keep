@@ -1,18 +1,13 @@
 # F.O.S.S (Free Open Source Software)
 
+## Table of Contents
+
 - [F.O.S.S (Free Open Source Software)](#foss-free-open-source-software)
+  - [Table of Contents](#table-of-contents)
   - [AI](#ai)
-  - [Browsers](#browsers)
-    - [Chromium](#chromium)
-    - [Gecko](#gecko)
-    - [WebKit](#webkit)
-  - [CI/CD (Continue Integration / Continue Delivery)](#cicd-continue-integration--continue-delivery)
   - [Design](#design)
   - [DNS (Domain Name System)](#dns-domain-name-system)
   - [Social Media](#social-media)
-  - [Messaging](#messaging)
-  - [Version Control](#version-control)
-  - [Workspace](#workspace)
 
 ## AI
 
@@ -27,34 +22,6 @@
 | 7   | [Llama](https://llama.meta.com/)          | [Meta](https://www.meta.com/)               |
 | 8   | [Perplexity](https://www.perplexity.ai/)  | [Perplexity AI](https://www.perplexity.ai/) |
 | 9   | [Poe](https://poe.com/)                   | [Quora](https://www.quora.com/)             |
-
-## Browsers
-
-### [Chromium](https://www.chromium.org/chromium-projects/)
-
-- [Arc](https://arc.net/)
-- [Brave](https://brave.com/)
-- [Chrome](https://www.google.com/chrome/)
-- [Edge](www.microsoft.com/edge/)
-- [Opera](https://www.opera.com/)
-
-### [Gecko](https://developer.mozilla.org/en-US/docs/Glossary/Gecko)
-
-- [Firefox](https://www.firefox.com/en-GB/)
-- [Zen](https://zen-browser.app/)
-
-### [WebKit](https://webkit.org/)
-
-- [Safari](https://www.apple.com/sg/safari/)
-
-## CI/CD (Continue Integration / Continue Delivery)
-
-- [CircleCI](https://circleci.com/)
-- [GitHub Actions](https://github.com/features/actions)
-- [GitLab CI](https://docs.gitlab.com/ee/ci/)
-- [Harness](https://harness.io/)
-- [Jenkins](https://www.jenkins.io/)
-- [TravisCI](https://docs.travis-ci.com/)
 
 ## Design
 
@@ -84,36 +51,3 @@
 - Videos
   - [Tiktok](https://tiktok.com)
   - [YouTube](https://youtube.com)
-
-## Messaging
-
-- [Discord](https://discord.com/)
-- [Facebook Messenger](https://www.messenger.com/)
-- [Signal](https://signal.org/)
-- [Slack](https://slack.com/)
-- [Telegram](https://telegram.org/)
-- [Whatsapp](https://www.whatsapp.com/)
-- [WeChat](https://www.wechat.com/)
-
-## Version Control
-
-1. [BitKeeper](https://www.bitkeeper.org/)
-2. [Git](https://git-scm.com/)
-   1. [Bitbucket](https://bitbucket.org/)
-   2. [GitHub](https://github.com/)
-   3. [GitLab](https://gitlab.com/)
-3. [Mercurial](https://www.mercurial-scm.org/)
-
-## Workspace
-
-| Type       | Google                                   | Microsoft  |
-| ---------- | ---------------------------------------- | ---------- |
-|            | [Calendar](https://calendar.google.com/) | Calendar   |
-|            | [Chat](https://chat.google.com/)         | Teams      |
-|            | [Docs](https://docs.google.com/)         | Word       |
-|            | [Drive](https://drive.google.com/)       | OneDrive   |
-| Email      | [Gmail](https://mail.google.com/)        | Outlook    |
-| Note       | [Keep](https://keep.google.com/)         | OneNote    |
-| Video Call | [Meet](https://meet.google.com/)         |            |
-|            | [Sheets](https://sheets.google.com/)     | Excel      |
-|            | [Slides](https://slides.google.com/)     | PowerPoint |
